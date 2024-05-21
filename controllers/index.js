@@ -1,2 +1,1 @@
 require("./start");
-require("./groupInfos");
